@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+
+# 환경 설정
+.env
+*.env
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints
+
+# VSCode, PyCharm
+.vscode/
+.idea/
+
+# OS별 임시 파일
+Thumbs.db
+.DS_Store
+
+# 기타 로그나 백업
+*.log
+*.bak
