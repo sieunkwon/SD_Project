@@ -1,4 +1,4 @@
-# SD_Project
+# Development of a Generative AI based wallpaper generator
 
 <img width="1920" height="987" alt="image" src="https://github.com/user-attachments/assets/f20be8ea-806c-4504-8a43-0ac4dedef566" />
 
